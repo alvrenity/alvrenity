@@ -8,7 +8,7 @@
 
 ----
 
-- 👋 Hi, I’m <@!274662186587127811>
+- 👋 Hi, I’m @alvrenity
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Flutter/Dart and Python
 - 💞️ I’m looking to collaborate on ...
