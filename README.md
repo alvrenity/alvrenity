@@ -9,9 +9,7 @@
 ----
 
 - 👋 Hi, I’m @alvrenity
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Flutter/Dart and Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python
 - 📫 How to reach me https://www.linkedin.com/in/kaan-yal%C3%A7%C4%B1nta%C5%9Fl%C4%B1-071874225/
 
 ----
